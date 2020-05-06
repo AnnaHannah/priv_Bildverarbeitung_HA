@@ -18,3 +18,4 @@ Dockerfile
 
 # Python venv
 venv/
+assignments/01_assignment/01_assignment.py
